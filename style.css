@@ -1,0 +1,16 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size: 50px;
+}
+.boy{
+    color: orange;
+}
+.link{
+    background-color: orange;
+    color: white;
+    text-decoration: none;
+    padding: 8px;
+    font-weight: bold;
+}
